@@ -1,0 +1,169 @@
+{
+    "timetable": {
+        "Monday": {
+            "VI": [
+                "JAVA Lab",
+                ""
+            ],
+            "VII": [
+                "JP",
+                "VM"
+            ],
+            "VIII": [
+                "LIBRARY",
+                ""
+            ],
+            "IX": [
+                "LUNCH",
+                "-"
+            ],
+            "X": [
+                "OT",
+                "APD"
+            ],
+            "XI": [
+                "FAI",
+                "RRC"
+            ],
+            "XII": [
+                "SE",
+                "SS"
+            ]
+        },
+        "Tuesday": {
+            "VI": [
+                "JAVA Lab",
+                ""
+            ],
+            "VII": [
+                "JP",
+                "VM"
+            ],
+            "VIII": [
+                "SE",
+                "SS"
+            ],
+            "IX": [
+                "LUNCH",
+                "-"
+            ],
+            "X": [
+                "OT",
+                "APD"
+            ],
+            "XI": [
+                "FAI",
+                "RRC"
+            ],
+            "XII": [
+                "Project Work",
+                ""
+            ]
+        },
+        "Wednesday": {
+            "All": [
+                "OFF",
+                "-"
+            ]
+        },
+        "Thursday": {
+            "VI": [
+                "JAVA Lab",
+                ""
+            ],
+            "VII": [
+                "FAI",
+                "RRC"
+            ],
+            "VIII": [
+                "LIBRARY",
+                ""
+            ],
+            "IX": [
+                "LUNCH",
+                "-"
+            ],
+            "X": [
+                "JP",
+                "VM"
+            ],
+            "XI": [
+                "SE",
+                "SS"
+            ],
+            "XII": [
+                "Project Work",
+                ""
+            ]
+        },
+        "Friday": {
+            "VI": [
+                "JAVA Lab",
+                ""
+            ],
+            "VII": [
+                "JP",
+                "VM"
+            ],
+            "VIII": [
+                "OT",
+                "APD"
+            ],
+            "IX": [
+                "LUNCH",
+                "-"
+            ],
+            "X": [
+                "FAI",
+                "RRC"
+            ],
+            "XI": [
+                "LIBRARY",
+                ""
+            ],
+            "XII": [
+                "Project Work",
+                ""
+            ]
+        },
+        "Saturday": {
+            "VI": [
+                "JAVA Lab",
+                ""
+            ],
+            "VII": [
+                "JAVA Lab",
+                ""
+            ],
+            "VIII": [
+                "OT",
+                "APD"
+            ],
+            "IX": [
+                "LUNCH",
+                "-"
+            ],
+            "X": [
+                "LIBRARY",
+                ""
+            ],
+            "XI": [
+                "SE",
+                "SS"
+            ],
+            "XII": [
+                "Project Work",
+                ""
+            ]
+        }
+    },
+    "periods": {
+        "VI": "11:45-12:30",
+        "VII": "12:30-13:15",
+        "VIII": "13:15-14:00",
+        "IX": "14:00-14:45",
+        "X": "14:45-15:30",
+        "XI": "15:30-16:15",
+        "XII": "16:15-17:00"
+    }
+}
